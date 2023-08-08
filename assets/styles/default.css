@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.section-container {
+  width: 100%;
+  max-width: 1440px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.text-justify {
+  text-align: justify;
+}/*# sourceMappingURL=default.css.map */
